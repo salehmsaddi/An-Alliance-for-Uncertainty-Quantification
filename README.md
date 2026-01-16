@@ -4,7 +4,6 @@ MATLAB implementation of the following paper:
 ```text
 S. Msaddi, T. Kumbasar, 2025. An Alliance for Uncertainty Quantification: Type-2 Fuzzy Logic Systems with Conformal Prediction, IEEE Transactions on Emerging Topics in Computational Intelligence.
 ```
-## 🚧 The code will be uploaded soon!
 
 We kindly ask that you cite the above-mentioned paper if you use this **Alliance Framework** in your research or publish work based on these codes.
 
